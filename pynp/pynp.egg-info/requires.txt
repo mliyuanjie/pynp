@@ -1,0 +1,8 @@
+numpy
+matplotlib
+h5py
+statsmodels
+scipy
+pandas
+lmfit
+nidaqmx
